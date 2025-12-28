@@ -1,2 +1,13 @@
-# Rule-Based-Expert-System
-A Rule-Based Expert System uses a list of if-then rules to infer conclusions from user-provided facts. The system checks each rule to see if all conditions are satisfied by the input symptoms and then produces a possible diagnosis. This replicates the expert decision logic taught in the referenced video.
+# Rule Based Expert System in Python
+
+This project implements a simple rule-based expert system
+that diagnoses common medical conditions based on symptoms.
+
+## How it works
+- Knowledge base contains IF-THEN rule patterns.
+- User inputs symptoms.
+- Inference engine checks matching rules.
+- Outputs possible diagnoses.
+
+## Technology
+Python
